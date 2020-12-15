@@ -1,4 +1,4 @@
 # Power-BI
 Power BI Files Repository
 
-This Folder has all the work I've done in Power BI
+This Folder contains a sample of dashboards I created in Power BI
